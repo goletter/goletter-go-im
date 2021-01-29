@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Goletter-im</title>
+</head>
+<body>
+    <!--对接客服代码-->
+    <script src="/static/js/gofly-front.js?v=1"></script>
+    <script>
+        GOFLY.init({
+            GOFLY_URL:"",
+            GOFLY_KEFU_ID: "kefu2",
+            GOFLY_BTN_TEXT: "在线咨询"
+        })
+    </script>
+    <!--//对接客服代码-->
+
+    <!--自动弹代码-->
+    <style>
+        /*自动弹出*/
+        .autoInvite{
+            width: 400px;
+            height: 162px;
+            position: fixed;
+            top:50%;
+            left: 50%;
+            margin-top: -81px;
+            margin-left: -200px;
+            background: url("/static/images/inviteColorBack1.png");
+            display: none;
+        }
+        .autoInvite .autoInviteNotice{
+            margin-top: 4px;
+        }
+        .autoInvite .autoInviteContent{
+            width: 220px;
+            height: 90px;
+            position: absolute;
+            top:55px;
+            right: 20px;
+            font-size: 13pt;
+            color: #fff;
+            word-break: break-all;
+            line-height: 25px;
+        }
+        .autoInvite .autoInviteBtns a{
+            display: inline-block;
+            width: 80px;
+            height: 32px;
+            line-height: 32px;
+            color: #fff;
+            text-align: center;
+            border: 1px solid #fff;
+            border-radius: 5px;
+            cursor: pointer;
+            font-size: 13px;
+            margin-right: 8px;
+            text-decoration: none;
+        }
+        .autoInvite .autoInviteBtns a.nowAsk{
+            color: #0085DA;
+            background-color: #fff;
+        }
+
+    </style>
+    <div class="autoInvite">
+        <div class="autoInviteContent">
+            <div class="autoInviteNotice">欢迎您访问goletter-im！有什么我能帮助您的？</div>
+            <div class="autoInviteBtns">
+                <a href="javascript:void(0)" id="noAsk">稍后再说</a>
+                <a href="javascript:void(0)" class="nowAsk">现在咨询</a>
+            </div>
+        </div>
+    </div>
+    <script>
+        var invite=false;
+
+        setTimeout(function(){
+            if (invite) return;
+            $(".autoInvite").show();
+            invite=true;
+
+            $("#noAsk").click(function(){
+                $(".autoInvite").hide();
+                invite=true;
+            });
+            $(".nowAsk").click(function(){
+                $(".autoInvite").hide();
+                showKefu();
+                invite=true;
+            });
+        },3000);
+    </script>
+    <!--自动弹代码-->
+</body>
+</html>

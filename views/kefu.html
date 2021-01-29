@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>客服回复聊天</title>
+    <script src="http://91vh.com/js/jquery-2.1.4.min.js"></script>
+</head>
+<body>
+    <div class="content">
+        <div><textarea rows="5" cols="40" id="content2"></textarea></div>
+        <div><button onclick="seedMsg()">提交</button></div>
+        <div class="liuyan"></div>
+    </div>
+    <script type="text/javascript">
+        function currentTime() {
+            let timeStamp = (new Date()).valueOf();
+
+            return timeStamp
+        }
+
+        function randomNumber(minNum, maxNum) {
+            switch (arguments.length) {
+                case 1:
+                    return parseInt(Math.random() * minNum + 1, 10);
+                    break;
+                case 2:
+                    return parseInt(Math.random() * (maxNum - minNum + 1) + minNum, 10);
+                    break;
+                default:
+                    return 0;
+                    break;
+            }
+        }
+
+
+        function sendId() {
+
+            let timeStamp = currentTime();
+            let randId = randomNumber(100000, 999999);
+            let id = timeStamp + "-" + randId;
+
+            return id
+        }
+
+        // 连接webSocket
+        ws = new WebSocket("ws://127.0.0.1:8080/ws_kefu");
+
+        ws.onopen = function(evt) {
+            console.log("Connection open ...");
+
+            // // 连接以后
+            // person = prompt("请输入你的名字", "hello-" + currentTime());
+            // if (person != null) {
+            //     console.log("用户准备登陆:" + person);
+            //     ws.send('{"seq":"' + sendId() + '","cmd":"login","data":{"userId":"' + person + '","appId":101}}');
+            // }
+
+            // person = randomNumber(10000, 99999)
+            // console.log("用户准备登陆:" + person);
+            // ws.send('{"seq":"' + sendId() + '","cmd":"login","data":{"userId":"' + person + '","appId":101}}');
+
+            // 定时心跳
+            setInterval(heartbeat, 30 * 1000)
+        };
+
+        // 收到消息
+        ws.onmessage = function(evt) {
+            var ret = JSON.parse(evt.data)
+            if (ret.data && ret.data.content) {
+                $('.liuyan').append("<div>"+ret.data.content+"========"+ret.data.time+"</div>")
+            }
+            console.log("Received Message: " + evt.data);
+        };
+
+        ws.onclose = function(evt) {
+            console.log("Connection closed.");
+        };
+
+        // 心跳
+        function heartbeat() {
+            var mes = {
+                type: 'ping',
+                data: { visitor: '123456' }
+            }
+            ws.send(JSON.stringify(mes));
+        }
+
+        function seedMsg() {
+            var content = $('#content2').val()
+            $.ajax({
+                type: "POST",
+                url: 'http://localhost:8080/api/message/store',
+                data: {
+                    type: "kefu",
+                    content: content,
+                },
+                contentType: "application/x-www-form-urlencoded",
+                success: function(data) {
+                    $('#content2').val('');
+                    console.log('回复成功');
+                }
+            });
+        }
+    </script>
+</body>
+</html>

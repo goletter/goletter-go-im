@@ -1,0 +1,95 @@
+.launchButtonBox{
+    position: fixed!important;
+    bottom: 120px!important;
+    right: 20px!important;
+    left: auto!important;
+}
+.launchButtonNotice{
+    padding: 10px;
+    margin: 0 auto;
+    display: block;
+    clear: both;
+    margin-top: 15px!important;
+    border-radius: 4px;
+    background-color: #fff;
+    overflow: hidden;
+    cursor: pointer;
+    box-shadow: 0 3px 15px 0 rgba(0,0,0,.25)!important;
+    position: absolute;
+    bottom: 60px;
+    color: #222;
+    line-height: 1.5;
+    font-size: 14px;
+    display: none;
+}
+.launchIcon{
+    background: red;
+    width: 20px;
+    height: 20px;
+    line-height: 20px;
+    text-align: center;
+    border-radius: 50%;
+    position: absolute;
+    top: -4px;
+    left: 0px;
+    color: #fff;
+    display: none;
+}
+.launchButton{
+    height: 48px!important;
+    width: auto!important;
+    z-index: 10000000000000!important;
+    background: #20B2BB!important;
+    border: 0!important;
+    border-radius: 100px!important;
+    box-shadow: 0 3px 15px 0 rgba(0,0,0,.25)!important;
+    box-sizing: border-box!important;
+    padding: 0 20px!important;
+    transition: all .4s,bottom .8s ease-in-out!important;
+    cursor: pointer!important;
+    outline: 0!important;
+    display: inline-block;
+    margin: 0!important;
+    -webkit-font-smoothing: antialiased!important;
+    -webkit-tap-highlight-color: transparent!important;
+    animation-name: loadBubble;
+    animation-iteration-count: 1;
+    animation-timing-function: ease-in-out;
+    animation-duration: .2s;
+    color: #ffffff !important;
+}
+.launchButton:hover {
+    box-shadow: 0 3px 20px 0 rgba(0,0,0,.5)!important;
+}
+.launchButton svg{
+    width: 28px;
+    height: 48px;
+}
+.launchButtonText {
+    color: #fff!important;
+    display: inline-block!important;
+    font-family: -apple-system,BlinkMacSystemFont,segoe ui,Roboto,Oxygen,Ubuntu,Cantarell,fira sans,droid sans,helvetica neue,sans-serif!important;
+    font-size: 1em!important;
+    line-height: 48px!important;
+    font-weight: 700!important;
+    margin: 0 0 0 12px!important;
+    overflow: hidden!important;
+    text-overflow: ellipsis!important;
+    vertical-align: top!important;
+    white-space: nowrap!important;
+    padding: 0!important;
+    transition: .6s ease-in-out!important;
+}
+
+@-webkit-keyframes bounce-up {
+    25% {-webkit-transform: translateY(6px);}
+    50%, 100% {-webkit-transform: translateY(0);}
+    75% {-webkit-transform: translateY(-6px);}
+}
+
+@keyframes bounce-up {
+    25% {transform: translateY(6px);}
+    50%, 100% {transform: translateY(0);}
+    75% {transform: translateY(-6px);}
+}
+.animateUpDown{ -webkit-animation: bounce-up 1.4s linear infinite;animation: bounce-up 1.4s linear infinite;}

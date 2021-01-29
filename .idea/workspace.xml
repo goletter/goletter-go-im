@@ -1,0 +1,357 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c7bc224b-51ef-44ec-9b84-9a731b98b1c3" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/controllers/Index.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/attachment.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/controllers/visitor.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/models/welcome.go" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/front.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/css/gofly-front.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/11.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/14.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/alert.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/alert2.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/attachent.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/0.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/1.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/10.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/11.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/12.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/13.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/14.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/15.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/16.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/17.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/18.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/19.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/2.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/20.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/21.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/22.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/23.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/24.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/25.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/26.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/27.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/28.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/29.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/3.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/30.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/31.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/32.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/33.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/34.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/35.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/36.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/37.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/38.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/39.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/4.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/40.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/41.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/42.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/43.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/44.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/45.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/46.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/47.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/48.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/49.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/5.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/50.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/51.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/52.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/53.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/54.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/55.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/56.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/57.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/58.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/59.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/6.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/60.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/61.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/62.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/63.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/64.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/65.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/66.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/67.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/68.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/69.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/7.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/70.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/71.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/8.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/face/9.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/inviteColorBack1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/images/sent.ogg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/chat-kf-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/chat-main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/chat-page.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/functions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/gofly-front.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/static/js/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/chat_main.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/chat_page.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/views/index.html" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+        <option value="Go File" />
+        <option value="HTML File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GoLibraries">
+    <option name="indexEntireGoPath" value="false" />
+  </component>
+  <component name="ProjectId" id="1m5lJGEF2p59WfWd9IFgb2Ejg62" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/views/auth" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/resources" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/views/auth" />
+      <recent name="$PROJECT_DIR$/views/layouts" />
+      <recent name="$PROJECT_DIR$/static/images" />
+      <recent name="$PROJECT_DIR$/static/js" />
+      <recent name="$PROJECT_DIR$/static/css" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build main.go">
+    <configuration name="go build app.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="goletter-go-im" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/bootstrap/app.go" />
+      <package value="goletter-go-im" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build main.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="goletter-go-im" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="goletter-go-im" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build message.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="goletter-go-im" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/app/controllers/message.go" />
+      <package value="goletter-go-im" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build router.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="goletter-go-im" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/routes/router.go" />
+      <package value="goletter-go-im" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build ws.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="goletter-go-im" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/app/services/websocket/ws.go" />
+      <package value="goletter-go-im" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build main.go" />
+        <item itemvalue="Go Build.go build message.go" />
+        <item itemvalue="Go Build.go build ws.go" />
+        <item itemvalue="Go Build.go build app.go" />
+        <item itemvalue="Go Build.go build router.go" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VgoProject">
+    <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1058" y="362" key="#Custom_Plugin_Repositories" timestamp="1608943991255">
+      <screen x="-1920" y="-18" width="1920" height="975" />
+    </state>
+    <state x="-1058" y="362" key="#Custom_Plugin_Repositories/-1920.-18.1920.975/0.23.1792.1097@-1920.-18.1920.975" timestamp="1608943991255" />
+    <state x="-1160" y="310" key="#Go_Modules" timestamp="1608791891249">
+      <screen x="-1920" y="-18" width="1920" height="975" />
+    </state>
+    <state x="-1160" y="310" key="#Go_Modules/-1920.-18.1920.975/0.23.1792.1097@-1920.-18.1920.975" timestamp="1608791891249" />
+    <state x="-1360" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1608868863492">
+      <screen x="-1920" y="-18" width="1920" height="975" />
+    </state>
+    <state x="-1360" y="135" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.-18.1920.975/0.23.1792.1097@-1920.-18.1920.975" timestamp="1608868863492" />
+    <state x="-1219" y="278" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611887295841">
+      <screen x="-1920" y="-18" width="1920" height="975" />
+    </state>
+    <state x="-1219" y="278" key="#com.intellij.fileTypes.FileTypeChooser/-1920.-18.1920.975/0.23.1792.1097@-1920.-18.1920.975" timestamp="1611887295841" />
+    <state width="1878" height="375" key="GridCell.Tab.0.bottom" timestamp="1611900107717">
+      <screen x="-1920" y="-18" width="1920" height="975" />
+    </state>
+    <state width="1878" height="379" key="GridCell.Tab.0.bottom/-1920.-18.1920.1057/0.23.1792.1017@-1920.-18.1920.1057" timestamp="1611800075427" />
+    <state width="1878" height="268" key="GridCell.Tab.0.bottom/-1920.-18.1920.1057/0.23.1792.1020@-1920.-18.1920.1057" timestamp="1609385255184" />
+    <state width="1864" height="270" key="GridCell.Tab.0.bottom/-1920.-18.1920.1057/0.23.1792.1022@-1920.-18.1920.1057" timestamp="1609220103795" />
+    <state width="1878" height="375" key="GridCell.Tab.0.bottom/-1920.-18.1920.975/0.23.1792.1097@-1920.-18.1920.975" timestamp="1611900107717" />
+    <state width="1878" height="379" key="GridCell.Tab.0.bottom/-1920.-18.1920.978/0.23.1792.1097@-1920.-18.1920.978" timestamp="1611812453886" />
+    <state width="1864" height="270" key="GridCell.Tab.0.bottom/-1920.-18.1920.980/0.23.1792.1097@-1920.-18.1920.980" timestamp="1609229935493" />
+    <state width="1878" height="379" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1611828427671" />
+    <state width="1878" height="375" key="GridCell.Tab.0.center" timestamp="1611900107717">
+      <screen x="-1920" y="-18" width="1920" height="975" />
+    </state>
+    <state width="1878" height="379" key="GridCell.Tab.0.center/-1920.-18.1920.1057/0.23.1792.1017@-1920.-18.1920.1057" timestamp="1611800075427" />
+    <state width="1878" height="268" key="GridCell.Tab.0.center/-1920.-18.1920.1057/0.23.1792.1020@-1920.-18.1920.1057" timestamp="1609385255183" />
+    <state width="1864" height="270" key="GridCell.Tab.0.center/-1920.-18.1920.1057/0.23.1792.1022@-1920.-18.1920.1057" timestamp="1609220103794" />
+    <state width="1878" height="375" key="GridCell.Tab.0.center/-1920.-18.1920.975/0.23.1792.1097@-1920.-18.1920.975" timestamp="1611900107717" />
+    <state width="1878" height="379" key="GridCell.Tab.0.center/-1920.-18.1920.978/0.23.1792.1097@-1920.-18.1920.978" timestamp="1611812453885" />
+    <state width="1864" height="270" key="GridCell.Tab.0.center/-1920.-18.1920.980/0.23.1792.1097@-1920.-18.1920.980" timestamp="1609229935492" />
+    <state width="1878" height="379" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1611828427670" />
+    <state width="1878" height="375" key="GridCell.Tab.0.left" timestamp="1611900107716">
+      <screen x="-1920" y="-18" width="1920" height="975" />
+    </state>
+    <state width="1878" height="379" key="GridCell.Tab.0.left/-1920.-18.1920.1057/0.23.1792.1017@-1920.-18.1920.1057" timestamp="1611800075426" />
+    <state width="1878" height="268" key="GridCell.Tab.0.left/-1920.-18.1920.1057/0.23.1792.1020@-1920.-18.1920.1057" timestamp="1609385255182" />
+    <state width="1864" height="270" key="GridCell.Tab.0.left/-1920.-18.1920.1057/0.23.1792.1022@-1920.-18.1920.1057" timestamp="1609220103794" />
+    <state width="1878" height="375" key="GridCell.Tab.0.left/-1920.-18.1920.975/0.23.1792.1097@-1920.-18.1920.975" timestamp="1611900107716" />
+    <state width="1878" height="379" key="GridCell.Tab.0.left/-1920.-18.1920.978/0.23.1792.1097@-1920.-18.1920.978" timestamp="1611812453884" />
+    <state width="1864" height="270" key="GridCell.Tab.0.left/-1920.-18.1920.980/0.23.1792.1097@-1920.-18.1920.980" timestamp="1609229935492" />
+    <state width="1878" height="379" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1611828427670" />
+    <state width="1878" height="375" key="GridCell.Tab.0.right" timestamp="1611900107717">
+      <screen x="-1920" y="-18" width="1920" height="975" />
+    </state>
+    <state width="1878" height="379" key="GridCell.Tab.0.right/-1920.-18.1920.1057/0.23.1792.1017@-1920.-18.1920.1057" timestamp="1611800075427" />
+    <state width="1878" height="268" key="GridCell.Tab.0.right/-1920.-18.1920.1057/0.23.1792.1020@-1920.-18.1920.1057" timestamp="1609385255183" />
+    <state width="1864" height="270" key="GridCell.Tab.0.right/-1920.-18.1920.1057/0.23.1792.1022@-1920.-18.1920.1057" timestamp="1609220103795" />
+    <state width="1878" height="375" key="GridCell.Tab.0.right/-1920.-18.1920.975/0.23.1792.1097@-1920.-18.1920.975" timestamp="1611900107717" />
+    <state width="1878" height="379" key="GridCell.Tab.0.right/-1920.-18.1920.978/0.23.1792.1097@-1920.-18.1920.978" timestamp="1611812453885" />
+    <state width="1864" height="270" key="GridCell.Tab.0.right/-1920.-18.1920.980/0.23.1792.1097@-1920.-18.1920.980" timestamp="1609229935492" />
+    <state width="1878" height="379" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1611828427671" />
+    <state width="243" height="457" key="HiddenNamespacesPopup" timestamp="1611882869911">
+      <screen x="-1920" y="-18" width="1920" height="975" />
+    </state>
+    <state width="243" height="496" key="HiddenNamespacesPopup/-1920.-18.1920.1057/0.23.1792.1020@-1920.-18.1920.1057" timestamp="1608885940972" />
+    <state width="243" height="457" key="HiddenNamespacesPopup/-1920.-18.1920.975/0.23.1792.1097@-1920.-18.1920.975" timestamp="1611882869911" />
+    <state x="-1456" y="108" key="SettingsEditor" timestamp="1608944014710">
+      <screen x="-1920" y="-18" width="1920" height="975" />
+    </state>
+    <state x="-1456" y="108" key="SettingsEditor/-1920.-18.1920.975/0.23.1792.1097@-1920.-18.1920.975" timestamp="1608944014710" />
+    <state x="-1091" y="365" width="323" height="295" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1609224111789">
+      <screen x="-1920" y="-18" width="1920" height="978" />
+    </state>
+    <state x="-1091" y="364" width="323" height="232" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/-1920.-18.1920.975/0.23.1792.1097@-1920.-18.1920.975" timestamp="1608948762201" />
+    <state x="-1091" y="365" width="323" height="295" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/-1920.-18.1920.978/0.23.1792.1097@-1920.-18.1920.978" timestamp="1609224111789" />
+    <state x="-1091" y="366" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/-1920.-18.1920.980/0.23.1792.1097@-1920.-18.1920.980" timestamp="1609208107395" />
+    <state x="-1087" y="364" width="311" height="211" key="com.intellij.database.actions.ToolActions$ScriptingActionBase$MyDatabaseScriptDialog" timestamp="1611900282037">
+      <screen x="-1920" y="-18" width="1920" height="975" />
+    </state>
+    <state x="-1087" y="364" width="311" height="211" key="com.intellij.database.actions.ToolActions$ScriptingActionBase$MyDatabaseScriptDialog/-1920.-18.1920.975/0.23.1792.1097@-1920.-18.1920.975" timestamp="1611900282037" />
+    <state x="-1087" y="365" width="311" height="211" key="com.intellij.database.actions.ToolActions$ScriptingActionBase$MyDatabaseScriptDialog/-1920.-18.1920.978/0.23.1792.1097@-1920.-18.1920.978" timestamp="1610073070675" />
+    <state x="-1110" y="298" width="428" height="341" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1609403027204">
+      <screen x="-1920" y="-18" width="1920" height="975" />
+    </state>
+    <state x="-1110" y="298" width="428" height="341" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/-1920.-18.1920.975/0.23.1792.1097@-1920.-18.1920.975" timestamp="1609403027204" />
+    <state x="-1196" y="137" width="823" height="687" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1611899605436">
+      <screen x="-1920" y="-18" width="1920" height="975" />
+    </state>
+    <state x="-1196" y="137" width="704" height="641" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/-1920.-18.1920.975/0.23.1792.1097@-1920.-18.1920.975" timestamp="1611899605436" />
+    <state x="-1115" y="266" width="823" height="687" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/-1920.-18.1920.978/0.23.1792.1097@-1920.-18.1920.978" timestamp="1609223648574" />
+    <state x="-1116" y="268" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/-1920.-18.1920.980/0.23.1792.1097@-1920.-18.1920.980" timestamp="1609206438883" />
+    <state x="-1253" y="225" width="586" height="550" key="find.popup" timestamp="1610073771931">
+      <screen x="-1920" y="-18" width="1920" height="978" />
+    </state>
+    <state x="-1253" y="224" width="586" height="548" key="find.popup/-1920.-18.1920.975/0.23.1792.1097@-1920.-18.1920.975" timestamp="1609721595581" />
+    <state x="-1253" y="225" width="586" height="550" key="find.popup/-1920.-18.1920.978/0.23.1792.1097@-1920.-18.1920.978" timestamp="1610073771931" />
+    <state x="-1302" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1609209339500">
+      <screen x="-1920" y="-18" width="1920" height="980" />
+    </state>
+    <state x="-1302" y="196" width="670" height="676" key="search.everywhere.popup/-1920.-18.1920.980/0.23.1792.1097@-1920.-18.1920.980" timestamp="1609209339500" />
+  </component>
+</project>
