@@ -10,119 +10,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7bc224b-51ef-44ec-9b84-9a731b98b1c3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/controllers/Index.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/attachment.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/visitor.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/welcome.go" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/common.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/front.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/css/gofly-front.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/0.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/1.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/10.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/11.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/12.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/13.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/14.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/2.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/2.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/3.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/3.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/4.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/5.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/6.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/7.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/8.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/9.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/alert.mp3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/alert2.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/attachent.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/0.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/1.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/10.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/11.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/12.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/13.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/14.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/15.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/16.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/17.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/18.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/19.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/2.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/20.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/21.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/22.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/23.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/24.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/25.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/26.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/27.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/28.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/29.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/3.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/30.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/31.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/32.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/33.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/34.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/35.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/36.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/37.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/38.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/39.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/4.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/40.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/41.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/42.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/43.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/44.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/45.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/46.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/47.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/48.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/49.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/5.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/50.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/51.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/52.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/53.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/54.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/55.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/56.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/57.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/58.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/59.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/6.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/60.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/61.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/62.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/63.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/64.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/65.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/66.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/67.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/68.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/69.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/7.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/70.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/71.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/8.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/face/9.gif" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/inviteColorBack1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/images/sent.ogg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/chat-kf-page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/chat-main.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/chat-page.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/functions.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/gofly-front.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/static/js/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/chat_main.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/chat_page.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/views/index.html" afterDir="false" />
-    </list>
+    <list default="true" id="c7bc224b-51ef-44ec-9b84-9a731b98b1c3" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -274,43 +162,43 @@
       <screen x="-1920" y="-18" width="1920" height="975" />
     </state>
     <state x="-1219" y="278" key="#com.intellij.fileTypes.FileTypeChooser/-1920.-18.1920.975/0.23.1792.1097@-1920.-18.1920.975" timestamp="1611887295841" />
-    <state width="1878" height="375" key="GridCell.Tab.0.bottom" timestamp="1611900107717">
+    <state width="1878" height="375" key="GridCell.Tab.0.bottom" timestamp="1611900787503">
       <screen x="-1920" y="-18" width="1920" height="975" />
     </state>
     <state width="1878" height="379" key="GridCell.Tab.0.bottom/-1920.-18.1920.1057/0.23.1792.1017@-1920.-18.1920.1057" timestamp="1611800075427" />
     <state width="1878" height="268" key="GridCell.Tab.0.bottom/-1920.-18.1920.1057/0.23.1792.1020@-1920.-18.1920.1057" timestamp="1609385255184" />
     <state width="1864" height="270" key="GridCell.Tab.0.bottom/-1920.-18.1920.1057/0.23.1792.1022@-1920.-18.1920.1057" timestamp="1609220103795" />
-    <state width="1878" height="375" key="GridCell.Tab.0.bottom/-1920.-18.1920.975/0.23.1792.1097@-1920.-18.1920.975" timestamp="1611900107717" />
+    <state width="1878" height="375" key="GridCell.Tab.0.bottom/-1920.-18.1920.975/0.23.1792.1097@-1920.-18.1920.975" timestamp="1611900787503" />
     <state width="1878" height="379" key="GridCell.Tab.0.bottom/-1920.-18.1920.978/0.23.1792.1097@-1920.-18.1920.978" timestamp="1611812453886" />
     <state width="1864" height="270" key="GridCell.Tab.0.bottom/-1920.-18.1920.980/0.23.1792.1097@-1920.-18.1920.980" timestamp="1609229935493" />
     <state width="1878" height="379" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1611828427671" />
-    <state width="1878" height="375" key="GridCell.Tab.0.center" timestamp="1611900107717">
+    <state width="1878" height="375" key="GridCell.Tab.0.center" timestamp="1611900787502">
       <screen x="-1920" y="-18" width="1920" height="975" />
     </state>
     <state width="1878" height="379" key="GridCell.Tab.0.center/-1920.-18.1920.1057/0.23.1792.1017@-1920.-18.1920.1057" timestamp="1611800075427" />
     <state width="1878" height="268" key="GridCell.Tab.0.center/-1920.-18.1920.1057/0.23.1792.1020@-1920.-18.1920.1057" timestamp="1609385255183" />
     <state width="1864" height="270" key="GridCell.Tab.0.center/-1920.-18.1920.1057/0.23.1792.1022@-1920.-18.1920.1057" timestamp="1609220103794" />
-    <state width="1878" height="375" key="GridCell.Tab.0.center/-1920.-18.1920.975/0.23.1792.1097@-1920.-18.1920.975" timestamp="1611900107717" />
+    <state width="1878" height="375" key="GridCell.Tab.0.center/-1920.-18.1920.975/0.23.1792.1097@-1920.-18.1920.975" timestamp="1611900787502" />
     <state width="1878" height="379" key="GridCell.Tab.0.center/-1920.-18.1920.978/0.23.1792.1097@-1920.-18.1920.978" timestamp="1611812453885" />
     <state width="1864" height="270" key="GridCell.Tab.0.center/-1920.-18.1920.980/0.23.1792.1097@-1920.-18.1920.980" timestamp="1609229935492" />
     <state width="1878" height="379" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1611828427670" />
-    <state width="1878" height="375" key="GridCell.Tab.0.left" timestamp="1611900107716">
+    <state width="1878" height="375" key="GridCell.Tab.0.left" timestamp="1611900787502">
       <screen x="-1920" y="-18" width="1920" height="975" />
     </state>
     <state width="1878" height="379" key="GridCell.Tab.0.left/-1920.-18.1920.1057/0.23.1792.1017@-1920.-18.1920.1057" timestamp="1611800075426" />
     <state width="1878" height="268" key="GridCell.Tab.0.left/-1920.-18.1920.1057/0.23.1792.1020@-1920.-18.1920.1057" timestamp="1609385255182" />
     <state width="1864" height="270" key="GridCell.Tab.0.left/-1920.-18.1920.1057/0.23.1792.1022@-1920.-18.1920.1057" timestamp="1609220103794" />
-    <state width="1878" height="375" key="GridCell.Tab.0.left/-1920.-18.1920.975/0.23.1792.1097@-1920.-18.1920.975" timestamp="1611900107716" />
+    <state width="1878" height="375" key="GridCell.Tab.0.left/-1920.-18.1920.975/0.23.1792.1097@-1920.-18.1920.975" timestamp="1611900787502" />
     <state width="1878" height="379" key="GridCell.Tab.0.left/-1920.-18.1920.978/0.23.1792.1097@-1920.-18.1920.978" timestamp="1611812453884" />
     <state width="1864" height="270" key="GridCell.Tab.0.left/-1920.-18.1920.980/0.23.1792.1097@-1920.-18.1920.980" timestamp="1609229935492" />
     <state width="1878" height="379" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1611828427670" />
-    <state width="1878" height="375" key="GridCell.Tab.0.right" timestamp="1611900107717">
+    <state width="1878" height="375" key="GridCell.Tab.0.right" timestamp="1611900787503">
       <screen x="-1920" y="-18" width="1920" height="975" />
     </state>
     <state width="1878" height="379" key="GridCell.Tab.0.right/-1920.-18.1920.1057/0.23.1792.1017@-1920.-18.1920.1057" timestamp="1611800075427" />
     <state width="1878" height="268" key="GridCell.Tab.0.right/-1920.-18.1920.1057/0.23.1792.1020@-1920.-18.1920.1057" timestamp="1609385255183" />
     <state width="1864" height="270" key="GridCell.Tab.0.right/-1920.-18.1920.1057/0.23.1792.1022@-1920.-18.1920.1057" timestamp="1609220103795" />
-    <state width="1878" height="375" key="GridCell.Tab.0.right/-1920.-18.1920.975/0.23.1792.1097@-1920.-18.1920.975" timestamp="1611900107717" />
+    <state width="1878" height="375" key="GridCell.Tab.0.right/-1920.-18.1920.975/0.23.1792.1097@-1920.-18.1920.975" timestamp="1611900787503" />
     <state width="1878" height="379" key="GridCell.Tab.0.right/-1920.-18.1920.978/0.23.1792.1097@-1920.-18.1920.978" timestamp="1611812453885" />
     <state width="1864" height="270" key="GridCell.Tab.0.right/-1920.-18.1920.980/0.23.1792.1097@-1920.-18.1920.980" timestamp="1609229935492" />
     <state width="1878" height="379" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1611828427671" />
@@ -329,10 +217,10 @@
     <state x="-1091" y="364" width="323" height="232" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/-1920.-18.1920.975/0.23.1792.1097@-1920.-18.1920.975" timestamp="1608948762201" />
     <state x="-1091" y="365" width="323" height="295" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/-1920.-18.1920.978/0.23.1792.1097@-1920.-18.1920.978" timestamp="1609224111789" />
     <state x="-1091" y="366" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/-1920.-18.1920.980/0.23.1792.1097@-1920.-18.1920.980" timestamp="1609208107395" />
-    <state x="-1087" y="364" width="311" height="211" key="com.intellij.database.actions.ToolActions$ScriptingActionBase$MyDatabaseScriptDialog" timestamp="1611900282037">
+    <state x="-1087" y="364" width="311" height="211" key="com.intellij.database.actions.ToolActions$ScriptingActionBase$MyDatabaseScriptDialog" timestamp="1611900713232">
       <screen x="-1920" y="-18" width="1920" height="975" />
     </state>
-    <state x="-1087" y="364" width="311" height="211" key="com.intellij.database.actions.ToolActions$ScriptingActionBase$MyDatabaseScriptDialog/-1920.-18.1920.975/0.23.1792.1097@-1920.-18.1920.975" timestamp="1611900282037" />
+    <state x="-1087" y="364" width="311" height="211" key="com.intellij.database.actions.ToolActions$ScriptingActionBase$MyDatabaseScriptDialog/-1920.-18.1920.975/0.23.1792.1097@-1920.-18.1920.975" timestamp="1611900713232" />
     <state x="-1087" y="365" width="311" height="211" key="com.intellij.database.actions.ToolActions$ScriptingActionBase$MyDatabaseScriptDialog/-1920.-18.1920.978/0.23.1792.1097@-1920.-18.1920.978" timestamp="1610073070675" />
     <state x="-1110" y="298" width="428" height="341" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1609403027204">
       <screen x="-1920" y="-18" width="1920" height="975" />
